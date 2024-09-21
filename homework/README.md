@@ -1,17 +1,21 @@
-# Print Number Triangle
+# Fibonacci Sequence Triangle
 
 ## Problem Statement
 
-Write a Python program that takes a positive integer 'n' as input and prints a number triangle as shown below:
+Write a Python program that takes a positive integer n as input and prints the first n numbers from the Fibonacci sequence.
 
-For example, if 'n' is 6, the output should be:
-
-![Number Triangle](https://github.com/Yves242/ptm-for-tpcalma/assets/70612985/4e76c3a4-ae10-40a1-9840-335c77f96b2f)
+For example, if n is 6, the output should be:
+```
+0 1 1 2 3 5
+```
 
 ## Specifications/Requirements
 
-Provide two distinct solutions for this assignment, utilizing for-loops exclusively in one implementation and while-loops exclusively for the other.
+Provide two distinct solutions for this assignment:
+
+1. Utilize for-loops exclusively in one implementation.
+2. Utilize while-loops exclusively in the other implementation.
 
 ## Solutions
 
-Check your solutions or find reference answers in the solutions zip file available in the current directory: [solutions.zip](./solutions.zip). There is no absolute one true answer to this homework, since there can be many variations of solutions to this problem. Have fun and good luck!
+Check your solutions or find reference answers in the solutions zip file available in the current directory. There is no absolute one true answer to this homework, since there can be many variations of solutions to this problem. Have fun and good luck!
